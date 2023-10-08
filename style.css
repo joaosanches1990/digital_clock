@@ -1,6 +1,6 @@
 html {
     height: 100%;
-    background: radial-gradient(ellipse at center, #0a2e38 0%, black 70%);
+    background: radial-gradient(ellipse at center, #320155 0%, black 70%);
 }
 
 p {
@@ -16,7 +16,7 @@ p {
     top: 50%;
     transform: translate(-50%, -50%);
     color: #daf6ff;
-    text-shadow: 0 0 20px #0aafe6, 0 0 20px rgba(10, 175, 230, 0);
+    text-shadow: 0 0 20px #054288, 0 0 20px rgba(10, 175, 230, 0);
 }
 
 #time {
